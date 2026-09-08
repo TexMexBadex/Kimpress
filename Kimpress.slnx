@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Kimpress.Tests/Kimpress.Tests.csproj" />
+  <Project Path="Kimpress/Kimpress.csproj" />
+</Solution>

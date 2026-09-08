@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Kimpress": {
+      "commandName": "Project",
+      "commandLineArgs": "compressed.txt"
+    }
+  }
+}
