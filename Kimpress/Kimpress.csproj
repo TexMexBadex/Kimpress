@@ -8,7 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Update="compressed.txt">
+    <None Update="compressed_2.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="compressed_1.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>

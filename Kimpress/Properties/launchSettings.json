@@ -2,7 +2,11 @@
   "profiles": {
     "Kimpress": {
       "commandName": "Project",
-      "commandLineArgs": "compressed.txt"
+      "commandLineArgs": "Kimpress/compressed_2.txt"
+    },
+    "Example2": {
+      "commandName": "Project",
+      "commandLineArgs": "Kimpress/compressed_2.txt"
     }
   }
 }
