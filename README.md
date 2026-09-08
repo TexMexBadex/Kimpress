@@ -44,8 +44,8 @@ Select a profile and press F5:
 
 Or from terminal:
 ```powershell
-dotnet run -- compressed_1.txt
-dotnet run -- compressed_2.txt
+dotnet run --project Kimpress Kimpres\compressed_1.txt
+dotnet run --project Kimpress Kimpress\compressed_2.txt
 ```
 
 ## Assumptions
